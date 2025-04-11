@@ -1,0 +1,30 @@
+Be precise:
+
+Give replit agent one task at a time.
+Break down complex tasks into smaller pieces.
+Handling multiple complex tasks can be challenging for today's coding agents.
+
+Make the prompts specific not vague.
+
+Be well organized. 
+Keep your project tidy.
+Add features step by step.
+Test features after each addition.
+Roll back when something breaks.
+
+Start with a fresh session for each new feature.
+
+Vibe Coding Today:
+Large jump in productivity.
+Can take you from idea to app.
+Limited by developer experience
+Has its gotchas.
+
+5 skills in vibe coding.
+Thinking
+Frameworks
+Checkpoints
+Debugging
+Context
+
+
